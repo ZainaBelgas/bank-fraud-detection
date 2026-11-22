@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35239041/README.md)
 # Détection de fraudes bancaires par machine learning
 
 **Projet de fin d’année de 3ᵉ année · EMSI · 2024–2025**
