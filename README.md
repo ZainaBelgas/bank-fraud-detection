@@ -53,3 +53,6 @@ Le prototype est conçu pour aider à examiner les transactions suspectes. Le ta
 - **Ilham Afouaar**
 
 **Encadrement** — Soufiane Hamida, EMSI.
+## Rapport du projet
+
+[Consulter le rapport complet (PDF)](docs/rapport-pfa.pdf)
